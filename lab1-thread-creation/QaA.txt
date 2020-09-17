@@ -1,3 +1,4 @@
 Q: Может ли нить послать нити сигнал? Сигналы для процесса и для нити отличаются или нет? Как происходит отправление сигнала.
 Q: Распечатать код возврата. Что еще делает join?
 https://computing.llnl.gov/tutorials/pthreads/
+https://devarea.com/linux-handling-signals-in-a-multithreaded-application/#.X2M_tmgzaUk
